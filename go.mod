@@ -58,3 +58,5 @@ require (
 )
 
 go 1.15
+
+replace github.com/matterbridge/go-xmpp v0.0.0-20200418225040-c8a3a57b4050 => github.com/tytan652/go-xmpp v0.0.0-20210715145403-9a1248d00c87
